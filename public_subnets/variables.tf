@@ -10,10 +10,10 @@ variable "availability_zone"{
 
 }
 
-variable "map_customer_owned_ip_on_launch"z{
+variable "map_customer_owned_ip_on_launch"{
      
 }
 
 variable "subnet_tag" {
-    
+
 }
