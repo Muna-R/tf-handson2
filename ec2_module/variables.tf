@@ -19,9 +19,6 @@ variable "subnet_id" {
 }
 
 variable "user_data" {
-    
+
 }
 
-variable "instance_type" {
-  
-}
