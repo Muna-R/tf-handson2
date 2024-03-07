@@ -22,3 +22,7 @@ variable "user_data" {
 
 }
 
+variable "instance_tag" {
+  
+}
+
